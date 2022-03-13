@@ -1,7 +1,7 @@
 ## Welcome to My First Github Page
 
 To me a reminder ! 
-I ca use the editor on GitHub by hitting on the link https://github.com/karimetic/courseratest.github.io/edit/gh-pages/index.md  to maintain the content editing of the page.
+I can use the editor on GitHub by hitting on the link https://github.com/karimetic/courseratest.github.io/edit/gh-pages/index.md  to maintain the content editing of the page.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
